@@ -23,3 +23,13 @@
 ## 反馈
 
 邮箱: zuoez02@outlook.com， Github: https://github.com/zuoez02/sy-excalidraw。欢迎Issue提交，如果有好的想法，也同样欢迎PR。
+
+## Changelog
+
+v1.1.0
++ 更新了@excalidraw版本为0.13.0
++ 修复了图片导入后保存再刷新没有内容的问题
++ 优化加载速度
+---
+v1.0.0
++ 第一个版本
